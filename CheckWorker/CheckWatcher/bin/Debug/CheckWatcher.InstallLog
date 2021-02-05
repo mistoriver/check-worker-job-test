@@ -1,0 +1,318 @@
+﻿Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe.
+Выполняется фиксация сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+Устанавливается служба CheckWatcher...
+Создается исходный EventLog CheckWatcher в журнале Application...
+Выполняется откат для сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+Восстанавливается исходное состояние журнала событий для источника CheckWatcher.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Устанавливается служба CheckWatcher...
+Служба CheckWatcher успешно установлена.
+Создается исходный EventLog CheckWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление источника EventLog CheckWatcher.
+Выполняется удаление службы CheckWatcher из системы...
+Служба CheckWatcher успешно удалена из системы.
+Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Устанавливается служба CheckWatcher...
+Служба CheckWatcher успешно установлена.
+Создается исходный EventLog CheckWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление источника EventLog CheckWatcher.
+Выполняется удаление службы CheckWatcher из системы...
+Служба CheckWatcher успешно удалена из системы.
+Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Устанавливается служба CheckWatcher...
+Служба CheckWatcher успешно установлена.
+Создается исходный EventLog CheckWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление источника EventLog CheckWatcher.
+Выполняется удаление службы CheckWatcher из системы...
+Служба CheckWatcher успешно удалена из системы.
+Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Устанавливается служба CheckWatcher...
+Служба CheckWatcher успешно установлена.
+Создается исходный EventLog CheckWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление источника EventLog CheckWatcher.
+Выполняется удаление службы CheckWatcher из системы...
+Служба CheckWatcher успешно удалена из системы.
+Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Устанавливается служба CheckWatcher...
+Служба CheckWatcher успешно установлена.
+Создается исходный EventLog CheckWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление источника EventLog CheckWatcher.
+Выполняется удаление службы CheckWatcher из системы...
+Служба CheckWatcher успешно удалена из системы.
+Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Устанавливается служба CheckWatcher...
+Служба CheckWatcher успешно установлена.
+Создается исходный EventLog CheckWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление источника EventLog CheckWatcher.
+Выполняется удаление службы CheckWatcher из системы...
+Служба CheckWatcher успешно удалена из системы.
+Попытка останова службы CheckWatcher.
+Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Устанавливается служба CheckWatcher...
+Служба CheckWatcher успешно установлена.
+Создается исходный EventLog CheckWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление источника EventLog CheckWatcher.
+Выполняется удаление службы CheckWatcher из системы...
+Служба CheckWatcher успешно удалена из системы.
+Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Устанавливается служба CheckWatcher...
+Служба CheckWatcher успешно установлена.
+Создается исходный EventLog CheckWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление источника EventLog CheckWatcher.
+Выполняется удаление службы CheckWatcher из системы...
+Служба CheckWatcher успешно удалена из системы.
+Попытка останова службы CheckWatcher.
+Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Устанавливается служба CheckWatcher...
+Служба CheckWatcher успешно установлена.
+Создается исходный EventLog CheckWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление источника EventLog CheckWatcher.
+Выполняется удаление службы CheckWatcher из системы...
+Служба CheckWatcher успешно удалена из системы.
+Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Устанавливается служба CheckWatcher...
+Служба CheckWatcher успешно установлена.
+Создается исходный EventLog CheckWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление источника EventLog CheckWatcher.
+Выполняется удаление службы CheckWatcher из системы...
+Служба CheckWatcher успешно удалена из системы.
+Попытка останова службы CheckWatcher.
+Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Устанавливается служба CheckWatcher...
+Служба CheckWatcher успешно установлена.
+Создается исходный EventLog CheckWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление источника EventLog CheckWatcher.
+Выполняется удаление службы CheckWatcher из системы...
+Служба CheckWatcher успешно удалена из системы.
+Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Устанавливается служба CheckWatcher...
+Служба CheckWatcher успешно установлена.
+Создается исходный EventLog CheckWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление источника EventLog CheckWatcher.
+Выполняется удаление службы CheckWatcher из системы...
+Служба CheckWatcher успешно удалена из системы.
+Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Устанавливается служба CheckWatcher...
+Служба CheckWatcher успешно установлена.
+Создается исходный EventLog CheckWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление источника EventLog CheckWatcher.
+Выполняется удаление службы CheckWatcher из системы...
+Служба CheckWatcher успешно удалена из системы.
+Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Устанавливается служба CheckWatcher...
+Служба CheckWatcher успешно установлена.
+Создается исходный EventLog CheckWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog

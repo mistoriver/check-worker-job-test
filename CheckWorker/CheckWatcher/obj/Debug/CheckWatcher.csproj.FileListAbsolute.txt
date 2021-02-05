@@ -1,0 +1,15 @@
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe.config
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.pdb
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWorker.dll
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\log4net.dll
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\Newtonsoft.Json.dll
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWorker.pdb
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWorker.dll.config
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\log4net.xml
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\Newtonsoft.Json.xml
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\obj\Debug\CheckWatcher.csprojAssemblyReference.cache
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\obj\Debug\CheckWatcher.csproj.CoreCompileInputs.cache
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\obj\Debug\CheckWatcher.csproj.CopyComplete
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\obj\Debug\CheckWatcher.exe
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\obj\Debug\CheckWatcher.pdb

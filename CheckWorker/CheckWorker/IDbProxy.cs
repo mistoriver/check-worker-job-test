@@ -10,38 +10,45 @@ namespace CheckWorker
 {
     // NOTE: You can use the "Rename" command on the "Refactor" menu to change the interface name "IService1" in both code and config file together.
     [ServiceContract]
-    public interface IService1
+    public interface IDbProxy
     {
-
+        /*
         [OperationContract]
         string GetData(int value);
 
         [OperationContract]
-        CompositeType GetDataUsingDataContract(CompositeType composite);
+        Cheque GetDataUsingDataContract(Cheque composite);*/
+
 
         // TODO: Add your service operations here
+
+
+        [OperationContract]
+        void TakeCheque(Cheque cheque);
+
+        [OperationContract]
+        List<Cheque> GetCheques(int howMany);
+
     }
 
 
     // Use a data contract as illustrated in the sample below to add composite types to service operations.
     [DataContract]
-    public class CompositeType
+    public class Cheque
     {
-        bool boolValue = true;
-        string stringValue = "Hello ";
+        [DataMember]
+        public Guid ChequeId { get; set; }
 
         [DataMember]
-        public bool BoolValue
-        {
-            get { return boolValue; }
-            set { boolValue = value; }
-        }
+        public string ChequeNumber { get; set; }
 
         [DataMember]
-        public string StringValue
-        {
-            get { return stringValue; }
-            set { stringValue = value; }
-        }
+        public decimal Summ { get; set; }
+
+        [DataMember]
+        public decimal Discount { get; set; }
+
+        [DataMember]
+        public string[] Articles { get; set; }
     }
 }

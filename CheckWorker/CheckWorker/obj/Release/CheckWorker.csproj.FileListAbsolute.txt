@@ -1,0 +1,6 @@
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWorker\bin\CheckWorker.dll.config
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWorker\bin\CheckWorker.dll
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWorker\bin\CheckWorker.pdb
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWorker\obj\Release\CheckWorker.csproj.CoreCompileInputs.cache
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWorker\obj\Release\CheckWorker.dll
+C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWorker\obj\Release\CheckWorker.pdb
