@@ -1,11 +1,7 @@
 ﻿using CheckWorker.Helpers;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.Serialization;
 using System.ServiceModel;
-using System.ServiceModel.Web;
-using System.Text;
+using System.Threading.Tasks;
 
 namespace CheckWorker
 {
@@ -25,10 +21,10 @@ namespace CheckWorker
 
 
         [OperationContract]
-        void TakeCheque(Cheque cheque);
+        void TakeChequeAsync(Cheque cheque);
 
         [OperationContract]
-        List<Cheque> GetCheques(int howMany);
+        Task<List<Cheque>> GetChequesAsync(int howMany);
 
     }
 }

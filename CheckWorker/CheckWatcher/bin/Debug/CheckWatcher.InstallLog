@@ -642,3 +642,24 @@ System.Security.SecurityException: Источник не найден, но не
 Выполняется удаление источника EventLog CheckWatcher.
 Выполняется удаление службы CheckWatcher из системы...
 Служба CheckWatcher успешно удалена из системы.
+Выполняется установка сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Устанавливается служба CheckWatcher...
+Служба CheckWatcher успешно установлена.
+Создается исходный EventLog CheckWatcher в журнале Application...
+Выполняется фиксация сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление сборки 'C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
+   logfile = C:\PersonalRepos\check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.InstallLog
+Выполняется удаление источника EventLog CheckWatcher.
+Выполняется удаление службы CheckWatcher из системы...
+Служба CheckWatcher успешно удалена из системы.

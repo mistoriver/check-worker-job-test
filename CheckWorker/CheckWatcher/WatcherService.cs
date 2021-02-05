@@ -1,8 +1,6 @@
 ﻿using CheckWatcher.Helpers;
 using System;
-using System.Collections.Generic;
 using System.Collections.Specialized;
-using System.ComponentModel;
 using System.Configuration;
 using System.IO;
 using System.ServiceProcess;
