@@ -12,3 +12,4 @@
 •	string[] Articles
 
 Логгирование WIN-службы реализовано через log4net, работа с JSON - Newtosoft.JSON, подключение библиотек через NuGet, работа с БД через Dapper.
+Служба лежит в check-worker-job-test\CheckWorker\CheckWatcher\bin\Debug\CheckWatcher.exe
