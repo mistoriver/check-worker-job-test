@@ -1,6 +1,7 @@
 ﻿using CheckWatcher.Helpers;
 using System;
 using System.Collections.Generic;
+using System.Collections.Specialized;
 using System.ComponentModel;
 using System.Configuration;
 using System.IO;
@@ -42,7 +43,11 @@ namespace CheckWatcher
 
         public Watcher()
         {
-            fileWatcher = new FileSystemWatcher(ConfigurationManager.AppSettings["CheckFolder"].ToString());
+            ServiceLogger.InitLogger();
+            var folderToWatch = ((NameValueCollection)ConfigurationManager.GetSection("ApplicationSettings"))["CheckFolder"];
+            ServiceLogger.Log.Info($"Для наблюдения задана папка {folderToWatch}");
+            FileHelper.TryCreateFolder(folderToWatch);
+            fileWatcher = new FileSystemWatcher(folderToWatch);
             fileWatcher.Changed += Watcher_ChangedOrCreated;
             fileWatcher.Created += Watcher_ChangedOrCreated;
         }
@@ -50,7 +55,6 @@ namespace CheckWatcher
         {
             enabled = true;
             fileWatcher.EnableRaisingEvents = true;
-            ServiceLogger.InitLogger();
             ServiceLogger.Log.Info("Служба запущена");
             while (enabled)
             {

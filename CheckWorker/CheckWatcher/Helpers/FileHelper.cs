@@ -34,6 +34,15 @@ namespace CheckWatcher.Helpers
         {
             return File.Exists(path);
         }
+
+        public static void TryCreateFolder(string path)
+        {
+            if (!Directory.Exists(path))
+            {
+                Directory.CreateDirectory(path);
+                ServiceLogger.Log.Info($"Создана папка {path}");
+            }
+        }
     }
 
 }

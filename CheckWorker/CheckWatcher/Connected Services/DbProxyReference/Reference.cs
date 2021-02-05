@@ -16,16 +16,16 @@ namespace CheckWatcher.DbProxyReference {
     public interface IDbProxy {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IDbProxy/TakeCheque", ReplyAction="http://tempuri.org/IDbProxy/TakeChequeResponse")]
-        void TakeCheque(CheckWorker.Cheque cheque);
+        void TakeCheque(CheckWorker.Helpers.Cheque cheque);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IDbProxy/TakeCheque", ReplyAction="http://tempuri.org/IDbProxy/TakeChequeResponse")]
-        System.Threading.Tasks.Task TakeChequeAsync(CheckWorker.Cheque cheque);
+        System.Threading.Tasks.Task TakeChequeAsync(CheckWorker.Helpers.Cheque cheque);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IDbProxy/GetCheques", ReplyAction="http://tempuri.org/IDbProxy/GetChequesResponse")]
-        CheckWorker.Cheque[] GetCheques(int howMany);
+        CheckWorker.Helpers.Cheque[] GetCheques(int howMany);
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IDbProxy/GetCheques", ReplyAction="http://tempuri.org/IDbProxy/GetChequesResponse")]
-        System.Threading.Tasks.Task<CheckWorker.Cheque[]> GetChequesAsync(int howMany);
+        System.Threading.Tasks.Task<CheckWorker.Helpers.Cheque[]> GetChequesAsync(int howMany);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -55,19 +55,19 @@ namespace CheckWatcher.DbProxyReference {
                 base(binding, remoteAddress) {
         }
         
-        public void TakeCheque(CheckWorker.Cheque cheque) {
+        public void TakeCheque(CheckWorker.Helpers.Cheque cheque) {
             base.Channel.TakeCheque(cheque);
         }
         
-        public System.Threading.Tasks.Task TakeChequeAsync(CheckWorker.Cheque cheque) {
+        public System.Threading.Tasks.Task TakeChequeAsync(CheckWorker.Helpers.Cheque cheque) {
             return base.Channel.TakeChequeAsync(cheque);
         }
         
-        public CheckWorker.Cheque[] GetCheques(int howMany) {
+        public CheckWorker.Helpers.Cheque[] GetCheques(int howMany) {
             return base.Channel.GetCheques(howMany);
         }
         
-        public System.Threading.Tasks.Task<CheckWorker.Cheque[]> GetChequesAsync(int howMany) {
+        public System.Threading.Tasks.Task<CheckWorker.Helpers.Cheque[]> GetChequesAsync(int howMany) {
             return base.Channel.GetChequesAsync(howMany);
         }
     }
